@@ -56,13 +56,13 @@
 
         layer_1 {
             bindings = <
-&bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &bt BT_SEL 5  &bt BT_CLR_ALL  &bt BT_CLR  &trans  &trans  &trans  &studio_unlock  &trans  &trans  &trans  &trans  &trans  &trans  &kp ESC  &kp LA(LEFT)  &mkp MCLK  &kp LA(RIGHT)  &kp PAGE_UP  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &mkp LCLK  &mkp RCLK  &kp LCTRL  &kp PAGE_DOWN  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DEL  &to 3  &kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp LC(TAB)  &trans  &trans  &trans  &trans  &trans  &kp LS(LC(TAB))  &trans  &trans  &trans  &kp END  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &bt BT_SEL 5  &bt BT_CLR_ALL  &bt BT_CLR  &trans  &trans  &trans  &studio_unlock  &trans  &trans  &trans  &trans  &trans  &trans  &kp ESC  &kp LA(LEFT)  &mkp MCLK  &kp LA(RIGHT)  &kp PAGE_UP  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &mkp LCLK  &mkp RCLK  &kp LCTRL  &kp PAGE_DOWN  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DEL  &mo 3  &kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp LC(TAB)  &trans  &trans  &trans  &trans  &trans  &kp LS(LC(TAB))  &trans  &trans  &trans  &kp END  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
         layer_2 {
             bindings = <
-&trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &trans  &trans  &trans  &trans  &trans  &trans  &kp ESC  &kp LA(LEFT)  &mkp MCLK  &kp LA(RIGHT)  &kp PAGE_UP  &kp F12  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &mkp LCLK  &mkp RCLK  &kp LCTRL  &kp PAGE_DOWN  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DEL  &to 3  &kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp LC(TAB)  &trans  &trans  &trans  &trans  &trans  &kp LS(LC(TAB))  &trans  &trans  &trans  &kp END  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &trans  &trans  &trans  &trans  &trans  &trans  &kp ESC  &kp LA(LEFT)  &mkp MCLK  &kp LA(RIGHT)  &kp PAGE_UP  &kp F12  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &mkp LCLK  &mkp RCLK  &kp LCTRL  &kp PAGE_DOWN  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DEL  &mo 3  &kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp LC(TAB)  &trans  &trans  &trans  &trans  &trans  &kp LS(LC(TAB))  &trans  &trans  &trans  &kp END  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
 
             sensor-bindings = <
@@ -96,7 +96,7 @@
 
         layer_6 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp ESC  &kp LA(LEFT_ARROW)  &mkp MCLK  &kp LA(RIGHT)  &kp PAGE_UP  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &mkp LCLK  &mkp RCLK  &kp LCTRL  &kp PAGE_DOWN  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DEL  &to 3  &kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp LC(TAB)  &trans  &trans  &trans  &trans  &trans  &kp LS(LC(TAB))  &trans  &trans  &trans  &kp END  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp ESC  &kp LA(LEFT_ARROW)  &mkp MCLK  &kp LA(RIGHT)  &kp PAGE_UP  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &mkp LCLK  &mkp RCLK  &kp LCTRL  &kp PAGE_DOWN  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DEL  &mo 3  &kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp LC(TAB)  &trans  &trans  &trans  &trans  &trans  &kp LS(LC(TAB))  &trans  &trans  &trans  &kp END  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
