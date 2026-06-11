@@ -25,6 +25,7 @@
 
 &trackball { 
     status = "okay";
+    automouse-layer = <6>;
 };
 
 &trackball_listener {
