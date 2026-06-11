@@ -92,13 +92,13 @@
         compatible = "zmk,input-processor-temp-layer";
         #input-processor-cells = <2>;
         require-prior-idle-ms = <500>;
-        excluded-positions = 
-            18 19 20 21 22  // 2行目右 (Y U I O P位置): ESC, BS, MCLK, ENTER, PG_UP
-            30 31 32 33 34  // 3行目右 (H J K L ;位置): BS, LCLK, RCLK, ^, PG_DN
-            43 44 45 46 47  // 4行目右 (] N M < >位置): LALT+SHIFT+TAB 〜 SHIFT
-            54 55           // 5行目右: HOME, CTRL+TAB
-            61              // 6行目右: SHIFT+CTRL+TAB
-            65              // 7行目右: END
+        excluded-positions = <
+            18 19 20 21 22
+            30 31 32 33 34
+            43 44 45 46 47
+            54 55
+            61
+            65
         >; 
     };
 
