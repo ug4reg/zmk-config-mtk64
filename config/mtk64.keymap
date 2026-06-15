@@ -96,3 +96,13 @@
         };
     };
 };
+
+/ {
+    macros {
+        LClick2L6: LClick2L6 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&mkp LCLK>, <&macro_wait_time 180>, <&to 0>;
+        };
+    };
+};
