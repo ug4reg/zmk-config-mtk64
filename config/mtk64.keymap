@@ -91,7 +91,7 @@
 
         layer_6 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp ESC  &kp LA(LEFT_ARROW)  &mkp MCLK  &kp LA(RIGHT)  &kp PAGE_UP  &kp HOME  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &LClick2L6  &mkp RCLK  &kp LCTRL  &kp PAGE_DOWN  &kp END  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp ENTER  &kp DEL  &mo 3  &kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &trans  &trans  &trans  &kp LANG1  &kp LANG2  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp ESC  &kp LA(LEFT_ARROW)  &mkp MCLK  &kp LA(RIGHT)  &kp PAGE_UP  &kp HOME  &trans  &trans  &trans  &trans  &trans  &trans  &kp BACKSPACE  &mkp LCLK  &mkp RCLK  &kp LCTRL  &kp PAGE_DOWN  &kp END  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp ENTER  &kp DEL  &mo 3  &kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &trans  &trans  &trans  &kp LANG1  &kp LANG2  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
